@@ -1,5 +1,5 @@
-# portfolio
-A portfolio template made using HTML, CSS and bootstrap.
+# Portfolio
+A portfolio template made using HTML, CSS, bootstrap and PHP.
 
 # Origin & Goals
 I wanted to make an online portfolio to showcase my projects and contribute to my online presence.Due to the lack of other meaningful projects, I decided to post it here as a template.
