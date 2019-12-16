@@ -13,7 +13,8 @@ There are 5 sections:<br/>
 2.the about me section, which contains general information about the owner, as well as contact information(phone number, mail),<br/>
 3.the skills section, which showcases the skills,<br/>
 4.the project section, which houses the projects of the owner,<br/>
-5.finally the contact section which has a contact form that can be used to contact the owner.<br/>
+5.the contact section which has a contact form that can be used to contact the owner,<br/>
+6.finally the footer which has three social icons which can be linked to their respective site<br/>
 
 The site also has a navigation bar which is alway visible and the contact form has a google captcha that is not visible because I have not included the keys for security reasons.The images used are all free and are taken from unsplash.com.
 
