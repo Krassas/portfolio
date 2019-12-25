@@ -1,4 +1,18 @@
+/*---------------
+ 1.Navigation
 
+ 2.Welcome-area
+
+ 3.About
+
+ 4.Skills
+
+ 5.Projects
+
+ 6.Contact-me
+
+ 7.Footer
+*/
  /*---------------
  1.Navigation
  */
@@ -20,7 +34,7 @@
     background:url(../images/welcome.jpg)no-repeat;
     background-size:cover;
     background-position: center;
-    height:890px;
+    height:112vh;
 }
 
 .header-text h2 {
@@ -55,10 +69,17 @@
  3.About
  */
  
-.about {padding: 90px 0 100px;}
-.about-content {padding-top: 100px;}
+.about {
+    padding: 90px 0 100px;
+}
+.about-content {
+    padding-top: 100px;
+}
 
-.single-about-img{position: relative;}
+.single-about-img{
+    position: relative;
+}
+
 .single-about-img:before {
     position:  absolute;
     content: " ";
@@ -77,7 +98,9 @@
  4.Skills
  */
  
-.skill-content{padding: 90px 0 80px;}
+.skill-content{ 
+    padding: 90px 0 80px;
+}
 
 .single-skill-content ul{
     list-style-type: none;
@@ -116,7 +139,9 @@
     border:  1px solid #e5ebf2;
 }
 
-.portfolio-content {padding-top: 100px;}
+.portfolio-content {
+    padding-top: 100px;
+}
 
 /* ---- .item ---- */
 .isotope:after {
@@ -201,7 +226,7 @@
 }
  
 /*---------------
- 6.Contact me
+ 6.Contact-me
  */
  
  .contact{
